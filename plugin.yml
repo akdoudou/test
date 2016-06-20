@@ -1,0 +1,18 @@
+name: Jeu
+version: 1.0
+author: Ak_doudou
+main: fr.Ak_doudou.Jeu.main.Jeu
+depends:
+commands:
+  start:
+    description: Description de la commande.
+  setteam:
+    description: Description de la commande.
+  mon:
+    description: Description de la com
+  test:
+    description: Description de la commande.
+  classe:
+    description: Description de la commande.
+  buy:
+    description: Description de la commande.
